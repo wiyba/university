@@ -1,0 +1,6 @@
+.direnv/
+identity.toml
+build/
+target/
+bin/
+obj/
